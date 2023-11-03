@@ -1,0 +1,16 @@
+{
+  "folders": [
+    {
+      "name": "storefront",
+      "path": "apps/storefront"
+    },
+    {
+      "name": "backend",
+      "path": "apps/medusa-backend"
+    },
+    {
+      "name": "admin",
+      "path": "apps/medusa-admin"
+    }
+  ]
+}

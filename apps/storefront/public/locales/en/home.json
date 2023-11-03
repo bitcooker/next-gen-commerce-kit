@@ -1,0 +1,10 @@
+{
+  "hero": {
+    "title": "Welcome to T3 Commerce",
+    "text": "We provide a modern project template for headless commerce using Next.js, tRPC, Next-Auth and Medusa.js. Check out the demo shop!",
+    "ctaLabel": "Get Started"
+  },
+  "promotedProducts": {
+    "heading": "Our Offers"
+  }
+}

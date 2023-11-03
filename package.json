@@ -1,0 +1,14 @@
+{
+  "name": "t3-commerce-template",
+  "version": "0.0.0",
+  "description": "Headless commerce template based on T3 stack",
+  "author": "bitcooker",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "apps/*"
+  ],
+  "scripts": {
+    "build": "pnpm run --recursive build"
+  }
+}

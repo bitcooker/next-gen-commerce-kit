@@ -1,0 +1,22 @@
+{
+  "appName": "T3 Commerce",
+  "languages": {
+    "de": "Deutsch",
+    "en": "English"
+  },
+  "formattedPrice": "{{value, currency(currency)}}",
+  "headerCart": {
+    "label": "Cart"
+  },
+  "userMenu": {
+    "signInLabel": "Sign in",
+    "signOutLabel": "Sign out"
+  },
+  "cartDrawer": {
+    "title": "Cart",
+    "closeLabel": "Close",
+    "emptyText": "You have no articles in your cart.",
+    "totalLabel": "Total:",
+    "checkoutLabel": "Go to Checkout"
+  }
+}
